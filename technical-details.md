@@ -2,7 +2,7 @@
 
 #### Technical Details <a href="#_dcj9jzmncgc" id="_dcj9jzmncgc"></a>
 
-So how does all this work? The GotchiVault consists of two smart contracts: (1) an ERC20 contract for the vGHST token, derived from QiDao’s camTokens; and (2) a “vault” for depositing Aavegotchis.
+So how does all this work? The GotchiVault consists of two smart contracts: (1) an ERC20 contract for the vGHST token, derived from QiDao’s camTokens; and (2) a “vault” for depositing Aavegotchis. TEST TEST TEST
 
 The GochiVault contracts are truly “money legos” contracts, with the majority of the code being derived from established, audited protocols.
 
