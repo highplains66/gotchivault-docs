@@ -8,4 +8,7 @@
 * [Road Map](road-map.md)
 * [Tokenomics](tokenomics.md)
 * [Contracts](contracts.md)
+* [vQi](vqi/README.md)
+  * [Background](vqi/background.md)
+  * [vQi](vqi/vqi.md)
 * [FAQ](faq.md)
