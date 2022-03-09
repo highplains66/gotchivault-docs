@@ -7,6 +7,5 @@
 * [Fees](fees.md)
 * [Road Map](road-map.md)
 * [Tokenomics](tokenomics.md)
-* [vQi](vqi.md)
 * [Contracts](contracts.md)
 * [FAQ](faq.md)
