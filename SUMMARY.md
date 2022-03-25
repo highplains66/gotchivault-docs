@@ -11,4 +11,5 @@
 * [vQi](vqi/README.md)
   * [Background](vqi/background.md)
   * [vQi](vqi/vqi.md)
+* [vvGHST](vvghst.md)
 * [FAQ](faq.md)
