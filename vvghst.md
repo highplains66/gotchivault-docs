@@ -14,6 +14,6 @@ The smart contract will deposit vGHST, borrow Mai up to a maximum safe threshold
 
 **Fees:**
 
-We charge a 1% withdrawal fee if you exit the vvGHST contract.  The majority of this fee covers the 0.5% repayment fee charged by Qidao that is incurred by unwinding the strategy when you exit.
+We charge a 0.5% withdrawal fee if you exit the vvGHST contract.  This fee covers the 0.5% repayment fee charged by Qidao that is incurred by unwinding the strategy when you exit.
 
 We also charge a 10% profit fee charged on the weekly profits (not on your collateral).  This fee goes towards increasing vQi liquidity and ensuring the Qi-vQi peg, covering the cost of custom bots to ensure the safety of the vvGHST vault, investing further in the protocol, and compensating the devs and vault managers for their time and commitment.
