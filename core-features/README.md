@@ -20,6 +20,3 @@ With Gotchi Vault, the Vault Managers take care of all of that, again in a decen
 
 Just like with GHST staking, once your Aavegotchi is deposited into the Vault only you can withdraw that Aavegotchi. The Vault Managers can’t trade it, list it for sale, or transfer it. Once an Aavegotchi is in the Vault, a user can always withdraw the Aavegotchi if they want to play in a minigame, or run around the Gotchiverse.
 
-We don’t have all the details yet on how Aavegotchi rentals / farming splits will work once the Gotchiverse is live, but you can rest assured that once the code is published, the Gotchi Vault will implement similar redundant, secure, and permissionless methods to ensure that your Aavegotchi is optimally being rented out for farming, to maximize yield.
-
-Regarding rentals, we are actively seeking out beneficial partnerships with external guilds to maximize rental yield. We recently announced an [inaugural partnership](https://www.cgu.io/post/cgu-have-partnered-with-gotchi-vault) with [Crypto Gaming United](https://www.cgu.io); as part of this partnership, we have committed 1,000 of the Vault’s Aavegotchis for their exclusive use. This will be hugely beneficial for both the Aavegotchi depositors, vGHST holders, and CGU. We are excited about this and future partnerships!

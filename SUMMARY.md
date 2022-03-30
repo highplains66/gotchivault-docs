@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Gotchi Vault](README.md)
-* [Core features](core-features.md)
+* [Core features](core-features/README.md)
+  * [Lending](core-features/lending.md)
 * [Technical Details](technical-details.md)
 * [Benefits](benefits.md)
 * [Fees](fees.md)

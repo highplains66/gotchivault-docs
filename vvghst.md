@@ -10,7 +10,7 @@ With vvGHST, we allow users to deposit their vGHST into the vvGHST smart contrac
 
 The smart contract will deposit vGHST, borrow Mai up to a maximum safe threshold (\~200%), and reinvest that Mai for additional yield. The current iteration of this strategy deposits the Mai on Balancer, earning \~ 10% APY. This results in the vvGHST contract earning increasingly larger amounts of Qi and Bal every week. This Qi will all be converted to vQi (see below), with the majority being held for depositors to withdraw when they exit the strategy. The contract will be constantly monitored (using either custom bots or Chainlink Keepers), and will be rebalanced if the collateral-debt threshold dips below the point where it earns rewards (160%). As such, the risk of liquidation is extremely minimal.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 
 **Fees:**
 
