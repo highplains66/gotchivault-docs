@@ -8,11 +8,11 @@ We have integrated the Aavegotchi lending contracts into the Gotchi Vault contra
 
 _**Pausing**_
 
-If you don't want any of your gotchis to be lended out, you can go into our UI's "Management Mode", select the gotchis you don't want to lend, and click "Pause Selected".  This triggers an on-chain transaction indicating these gotchis shouldn't be lended.  If your gotchi is mid-rental, you'll have to wait for that rental to conclude, but your gotchi then won't be re-listed.  You can always un-pause that gotchi, by triggering the "Resume Selected" transaction.
+If you don't want any of your gotchis to be lent out, you can go into our UI's "Management Mode", select the gotchis you don't want to lend, and click "Pause Selected".  This triggers an on-chain transaction indicating these gotchis shouldn't be lent out.  If your gotchi is mid-rental, you'll have to wait for that rental to conclude, but your gotchi then won't be re-listed.  You can always un-pause that gotchi, by triggering the "Resume Selected" transaction.
 
 _**Locking and guild rental**_
 
-Regarding rentals, we have partnerships with a number of large guilds, like Crypto Gaming United, Blackpool, Orium, and Metanerd.  We have agreed to whitelist aavegotchis to these guilds.  For this to work smoothly and predictably, however, we need to ensure that the gotchis we allocate to the guilds stay in the vault for a period of time.  We're asking users to lock up their gotchis for a set period of time, during which your gotchi will be lended out to the guilds (presumably at a much higher utilization than you'd receive on the public market!).  You can lock your gotchi for a period of time using the UI.  **NOTE** that once you lock your gotchi it is **REALLY** locked for that period of time.  You will not be able to withdraw until the lock period has ended.
+Regarding rentals, we have partnerships with a number of large guilds, like Crypto Gaming United, Blackpool, Orium, and Metanerd.  We have agreed to whitelist aavegotchis to these guilds.  For this to work smoothly and predictably, however, we need to ensure that the gotchis we allocate to the guilds stay in the vault for a period of time.  We're asking users to lock up their gotchis for a set period of time, during which your gotchi will be lent out to the guilds (presumably at a much higher utilization than you'd receive on the public market!).  You can lock your gotchi for a period of time using the UI.  **NOTE** that once you lock your gotchi it is **REALLY** locked for that period of time.  You will not be able to withdraw until the lock period has ended.
 
 _**Fees**_
 
