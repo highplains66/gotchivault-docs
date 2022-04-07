@@ -8,7 +8,7 @@ We have integrated the Aavegotchi lending contracts into the Gotchi Vault contra
 
 _**Pausing**_
 
-If you don't want any of your gotchis to be lended out, you can go into our UI's "Management Mode", select the gotchis you don't want to lend, and click "Pause Selected".  This triggers an on-chain transaction indicating these gotchis shouldn't be lended.  If your gotchi is mid-rental, you'll have to wait for that rental to conclude, but your gotchi then won't be re-listed.  You can always un-pause that gotchi, by triggering the "Resume Selected" transaction.
+If you don't want any of your gotchis to be lended out, you can go into our UI's "Management Mode", select the gotchis you don't want to lend, and click "Pause Selected".  This triggers an on-chain transaction indicating these gotchis shouldn't be lended (lent out).  If your gotchi is mid-rental, you'll have to wait for that rental to conclude, but your gotchi then won't be re-listed.  You can always un-pause that gotchi, by triggering the "Resume Selected" transaction.
 
 _**Locking and guild rental**_
 
